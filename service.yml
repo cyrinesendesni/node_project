@@ -4,7 +4,7 @@ metadata:
   name: node-project
 spec:
   selector:
-    app: nodeproject
+    app: nodejs
   ports:
     - name: http
       protocol: TCP
